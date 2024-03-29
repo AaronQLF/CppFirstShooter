@@ -1,0 +1,63 @@
+# UML
+*.uxf
+/UML
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+*.git
+*.vs
+*Debug
+*libs
+*Release
+*x64
+
+*modelconverter/Debug
+*modelconverter/Release
+*modelconverter/x64
+
+*OpenGL_Tutorial/Debug
+*OpenGL_Tutorial/libs
+*OpenGL_Tutorial/Release
+*OpenGL_Tutorial/x64
+
+tinyxml2.cpp
+tinyxml2.h
+/Game/textures/human01.jpg
+/Game/models/character_v2.bmf
+/Game/config.ini.bak
